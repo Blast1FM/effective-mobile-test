@@ -1,4 +1,7 @@
 Собрать 
-```cmake -B build -S .```
+
+`cmake -B build -S .`
+
 Запустить
-```./build/list_serializer```
+
+`./build/list_serializer`
